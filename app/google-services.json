@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "923522361451",
+    "project_id": "smssender-d8e29",
+    "storage_bucket": "smssender-d8e29.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923522361451:android:cb58276ad36b591cb5a92e",
+        "android_client_info": {
+          "package_name": "com.sms.sender"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSiuxFFPapi0CX7DgkVC8eywWQ57yol5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
